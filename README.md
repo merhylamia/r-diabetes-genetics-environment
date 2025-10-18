@@ -51,7 +51,7 @@ Using R, the analysis investigates relationships between **HbA1c levels (genetic
 | Plot | Description |
 |------|--------------|
 | ![HbA1c scatter](hba1c-scatter.png) | HbA1c levels across disease categories (diabetic, prediabetic, normal). |
-| ![Roseburia boxplot](figures/roseburia_box.png) | Boxplot showing *Roseburia* relative abundance by disease group. |
+| ![Roseburia boxplot](Rosebiura_Boxplots_2x2_Grid.png)) | Boxplot showing *Roseburia* relative abundance by disease group. |
 
 ---
 
