@@ -1,3 +1,7 @@
+> **Keywords:** Biostatistics | Epidemiology | R Programming | Data Analytics | Healthcare Modeling  
+An R-based analysis exploring correlations between genetic and environmental factors  
+in diabetes prevalence, using statistical modeling and ggplot2 visualizations.
+
 # Diabetes and Its Correlation with Genetic and Environmental Factors (R)
 
 **Author:** Lamia T. Merhy  
